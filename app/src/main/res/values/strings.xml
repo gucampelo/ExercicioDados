@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExercicioDados</string>
+    <string name="radio1">1 Dado</string>
+    <string name="radio2">2 Dados</string>
+    <string name="radio3">3 Dados</string>
+    <string name="btnGerar">Gerar</string>
+</resources>
